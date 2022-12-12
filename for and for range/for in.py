@@ -1,8 +1,7 @@
-A = ["Vinothraj", "Mathushan", "Dilakshan",
-     1, 2, 3, 4, 5, 6, 7, 8, 89, 99, 100]
-
 
 # for in Loop
+A = ["Vinothraj", "Mathushan", "Dilakshan",1, 2, 3, 4, 5, 6, 7, 8, 89, 99, 100]
+
 
 for item in A:
     print(item)
@@ -16,8 +15,6 @@ print("finish")
 
 
 Number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-
-
 for num in Number:
     print("*" * num)
 print("finish")
