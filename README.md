@@ -1,10 +1,14 @@
 # python-mini-project
 
 This is my project based learning in python
-
+# Calculator.py
 stpe-01 : if elif else and try except statment in calculator
 
-# Calculator.py
 
 
-stpe-02 : for in and for rang loops in 
+# social media dounloader
+
+step-01 : download pytube 
+"""
+pip install download
+"""
