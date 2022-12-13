@@ -7,7 +7,8 @@ def py_download(youtube_link):
     YouTube_Download = YouTube(youtube_link).streams.get_highest_resolution()
     
     try:
-        YouTube_Download.download()
+        print(f" {YouTube_Download} is downloading..... ")
+        YouTube_Download.download("video/")
         print(f" {YouTube_Download} is downloaded ")
 
     except:
