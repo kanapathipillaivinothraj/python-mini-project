@@ -6,9 +6,16 @@ stpe-01 : if elif else and try except statment in calculator
 
 
 
-# social media dounloader
+# social media downloader
 
 step-01 : download pytube 
 """
 pip install download
+"""
+
+# Image Comperssor
+
+step-01 : download pillow
+"""
+pip install pillow
 """
