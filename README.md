@@ -10,7 +10,7 @@ stpe-01 : if elif else and try except statment in calculator
 
 step-01 : download pytube 
 """
-pip install download
+pip install pytube
 """
 
 # Image Comperssor
